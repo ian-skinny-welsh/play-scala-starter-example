@@ -10,3 +10,4 @@ Some info about tools you need to install
 2. How to install "CNTLM"
 3. How to raise an "Issue"
 4. How to create a "Pull request"
+5. How to close a "Pull request" and ot's associated "Issues"
