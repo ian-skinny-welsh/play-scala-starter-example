@@ -36,6 +36,9 @@ There are several demonstration files available in this template.
 - `Module.scala`:
 
   Shows how to use Guice to bind all the components needed by your application.
+  sdouohucvqieruhgfiuyera
+  arekgfaerijgoiauth
+  
 
 - `Counter.scala`:
 
